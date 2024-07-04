@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi 👋
+
+## My name is Artem. I`m Backend Developer
 
 <!--
 **Dr1DeX/Dr1DeX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
